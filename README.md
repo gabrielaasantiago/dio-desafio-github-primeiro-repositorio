@@ -4,7 +4,8 @@
 
 ### Este repositório contém:
 
-- Notas de aula dos Bootcamps da DIO
+- Notas de aula dos Bootcamps da DIO;
+- Exemplo de markdown do curso **Introdução ao Git e ao GitHub** : "Strogonoff.md"
 
 
 
