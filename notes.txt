@@ -1,0 +1,13 @@
+﻿NOTES
+
+DIO Bootcamps
+
+Links úteis:
+
+Site DIO: https://web.dio.me/
+
+Site GIT: https://git-scm.com/
+
+Site GitHub: https://github.com/
+
+
